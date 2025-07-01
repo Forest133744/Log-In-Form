@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+
+
+.container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+
+
+
+
+}
+
+
+.left{
+
+    
+
+
+
+
+}
+
+#leftPicture{
+    display: block;
+    height: auto;
+    width: auto;
+    border: none;
+    object-fit: contain;
+    
+
+
+}
