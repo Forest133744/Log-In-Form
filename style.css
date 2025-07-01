@@ -17,15 +17,6 @@
 }
 
 
-.left{
-
-    
-
-
-
-
-}
-
 #leftPicture{
     display: block;
     height: auto;
@@ -34,5 +25,34 @@
     object-fit: contain;
     
 
+
+}
+
+
+.transparentBlack{
+
+    background-color: rgba(0, 0, 0, 0.555);
+    position: absolute;
+    top: 300px;
+    height: 200px;
+    width: 844px;
+    bottom: auto;
+
+}
+
+.logo{
+    
+    position: absolute;
+    top: 288px;
+    left: 100px;
+}
+
+.wrapperText{
+    color: white;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 360px;
+    left: 300px;
 
 }
