@@ -123,3 +123,16 @@ h3{
     margin-left: 70px;
 
 }
+
+.formContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+
+.formPair {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
